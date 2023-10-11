@@ -1,5 +1,19 @@
 # Changelog
 
+## [3.2.0](https://github.com/SouOWendel/ordemparanormal_fvtt/compare/v3.1.0...v3.2.0) (2023-10-11)
+
+
+### Features
+
+* **item-sheet:** added new item-sheet with new tab and name, replacing the habilities ([50c66a9](https://github.com/SouOWendel/ordemparanormal_fvtt/commit/50c66a9ca54850af55998f6cd0b96dba8ac02ea3))
+* **item-sheet:** added the ritual and icons function features, moreover, added the send-chat action ([ec9fe65](https://github.com/SouOWendel/ordemparanormal_fvtt/commit/ec9fe6589adc8ed2a32aa8ca7444be835aa36c7b))
+* **localization:** add translates for ritual and power (en and pt-br) ([08e830f](https://github.com/SouOWendel/ordemparanormal_fvtt/commit/08e830f00fc845eecd8a2ed060818cbb2998861d))
+
+
+### Bug Fixes
+
+* disable the debug.hook, only useful for development ([5957453](https://github.com/SouOWendel/ordemparanormal_fvtt/commit/5957453d5d34e4d1e0ba1f25e73a5e9097c90da1))
+
 ## [3.1.0](https://github.com/SouOWendel/ordemparanormal_fvtt/compare/v3.0.0...v3.1.0) (2023-10-09)
 
 
